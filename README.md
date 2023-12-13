@@ -12,8 +12,11 @@ This code is used to train the value network that is used in the MCTS search. Th
 MNIST_Data.zip
 MNIST Data in CSV form
 
+Baseline_Implementation.ipynb
+Baseline implementation of two feature network supervised model
 
 #Instructions to Run the Code
-1) Run the Policy_Network.ipynb using the input dataset to train the policy network and produce the policy network model
-2) Run the Value_Network.ipynb using the input dataset to train the value network and produce the value network model
-3) Use the input dataset along with the trained value and policy network to reassemble the puzzles
+
+1. Run the Policy_Network.ipynb using the input dataset to train the policy network and produce the policy network model
+2. Run the Value_Network.ipynb using the input dataset to train the value network and produce the value network model
+3. Use the input dataset along with the trained value and policy network to reassemble the puzzles
