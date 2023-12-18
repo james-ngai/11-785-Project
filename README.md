@@ -1,5 +1,7 @@
 # 11-785-Project
 
+Final Video: https://youtu.be/DpJcMY3AIuo?si=ibnxdNpt-0pyj34L 
+
 MCTS.ipynb:
 This is the notebook used for final inference using a combination of trained value and policy networks for optimal image reassembly. The MCTS allows inference beyond the greedy solution presented in the policy network.
 
